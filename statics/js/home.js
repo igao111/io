@@ -1,16 +1,16 @@
 (function(w) {
     function enterLine() {
         document.getElementById("btnEnter1").onclick = function() {
-            window.open('https://igao1.com', "_self");
+            window.open('https://igao1.com', "_blank");
         }
         document.getElementById("btnEnter2").onclick = function() {
-            window.open('https://igao2.com', "_self");
+            window.open('https://igao2.com', "_blank");
         }
         document.getElementById("btnEnter3").onclick = function() {
-            window.open('https://igao3.com', "_self");
+            window.open('https://igao3.com', "_blank");
         }
         document.getElementById("btnEnter4").onclick = function() {
-            window.open('https://igao111.com', "_self");
+            window.open('https://igao111.com', "_blank");
         }
         document.getElementById("btnEnter6").onclick = function() {
             window.open('https://www.google.com', "_blank");
