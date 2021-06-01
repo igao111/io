@@ -13,7 +13,7 @@
             window.open('https://igao111.com', "_self");
         }
         document.getElementById("btnEnter6").onclick = function() {
-            window.open('https://www.google.com', "_blank");
+            window.open('http://www.meizuhui.com/', "_blank");
         }
     }
     function init() {
