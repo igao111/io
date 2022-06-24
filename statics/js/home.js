@@ -1,16 +1,16 @@
 (function(w) {
     function enterLine() {
         document.getElementById("btnEnter1").onclick = function() {
-            window.open('https://125.igao57.com/', "_self");
+            window.open('https://129.igao57.com/', "_self");
         }
         document.getElementById("btnEnter2").onclick = function() {
-            window.open('https://126.igao57.com/', "_self");
+            window.open('https://130.igao57.com/', "_self");
         }
         document.getElementById("btnEnter3").onclick = function() {
-            window.open('https://127.igao57.com/', "_self");
+            window.open('https://131.igao57.com/', "_self");
         }
         document.getElementById("btnEnter4").onclick = function() {
-            window.open('https://128.igao57.com/', "_self");
+            window.open('https://132.igao57.com/', "_self");
         }
         document.getElementById("btnEnter6").onclick = function() {
             window.open('https://www.baidu.com', "_blank");
